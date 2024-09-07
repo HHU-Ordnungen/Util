@@ -1,1 +1,1 @@
-* xref:beitragsordnung::index.adoc[]
+include:util::nav.adoc[]
