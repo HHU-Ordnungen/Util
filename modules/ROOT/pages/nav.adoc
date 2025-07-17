@@ -4,7 +4,6 @@
 * xref:fachbereichsordnung-mnf::index.adoc[]
 * xref:geschaeftsordnungfs::index.adoc[]
 * xref:geschaeftsordnungfsvk::index.adoc[]
-* xref:geschaeftsordnung-mnf::index.adoc[]
 * xref:geschaeftsordnungsp::index.adoc[]
 * xref:grundordnung::index.adoc[]
 * xref:urabstimmungsordnung::index.adoc[]
